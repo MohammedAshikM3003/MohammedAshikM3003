@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/profile_card_black_border.svg?v=1" alt="MOHAMMED ASHIK M" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/banner.svg?v=1" alt="MOHAMMED ASHIK M" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/profile_card.svg?v=2" alt="Mohammed Ashik M - profile card" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/profile_card_black_border.svg?v=2" alt="Mohammed Ashik M - profile card" width="100%">
 </p>
 
 <p align="center">
