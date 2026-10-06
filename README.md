@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammedashikm3003"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" alt="LinkedIn"/></a>
-  <a href="mailto:mmohammedashik2006@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email"/></a>
-  <a href="https://github.com/MohammedAshikM3003"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mohammedashikm3003"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" alt="LinkedIn"/></a>
+  <a href="mailto:mmohammedashik2006@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Email"/></a>
+  <a href="https://github.com/MohammedAshikM3003"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub"/></a>
 </p>
 
 ---
 
-## `> whoami` - About Me
+## About Me
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/about_card.svg?v=3" alt="About Me" width="100%">
@@ -40,7 +40,7 @@ OPEN_TO     =  Software Development Internships and Full-Time Roles
 
 ---
 
-## `> cat current-focus.yaml` - Current Focus
+## Current Focus
 
 ```yaml
 working_on:
@@ -60,7 +60,7 @@ open_to:
 
 ---
 
-## `> ls /tech-stack` - Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -108,7 +108,7 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
 
 ---
 
-## `> cat competencies.json` - Core Competencies
+## Core Competencies
 
 | Domain | Details |
 | :-- | :-- |
@@ -122,7 +122,7 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
 
 ---
 
-## `> ls /projects` - Featured Projects
+## Featured Projects
 
 ### Placement Portal
 
@@ -134,7 +134,7 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
     <td valign="top">
       <b>Full-stack college placement management platform</b> for students, placement coordinators, and administrators. It centralizes placement workflows, automates eligibility checking, and reduces manual work for placement coordinators.
       <br><br>
-      <a href="https://github.com/MohammedAshikM3003/Placement-Portal"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="GitHub repository" /></a>
+      <a href="https://github.com/MohammedAshikM3003/Placement-Portal"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub repository" /></a>
       <!-- LIVE DEMO: to add a live demo button, paste this line here with your link:
       <a href="YOUR_LIVE_LINK"><img src="https://img.shields.io/badge/Live-Demo-FFFFFF?style=for-the-badge&labelColor=000000" alt="Live demo" /></a>
       -->
@@ -184,7 +184,7 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
     <td valign="top">
       <b>AI-powered hardware and software system</b> combining a gesture-controlled robotic rover, a robotic arm, wireless communication, and computer vision.
       <br><br>
-      <a href="https://github.com/MohammedAshikM3003/Cynexis"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="GitHub repository" /></a>
+      <a href="https://github.com/MohammedAshikM3003/Cynexis"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub repository" /></a>
     </td>
   </tr>
   <tr>
@@ -226,7 +226,7 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
     <td valign="top">
       <b>AI-powered meeting assistant</b> that converts meeting transcripts into structured summaries and action items. Built during my software development internship at OneYes Info Tech Solutions.
       <br><br>
-      <a href="https://github.com/MohammedAshikM3003/MeetingMapper"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="GitHub repository" /></a>
+      <a href="https://github.com/MohammedAshikM3003/MeetingMapper"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub repository" /></a>
     </td>
   </tr>
   <tr>
@@ -262,8 +262,8 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
     <td valign="top">
       <b>Ethereum-based blockchain platform</b> for secure government services and certificate verification, built for the PALS InnoWAH National Hackathon.
       <br><br>
-      <a href="https://github.com/Pradeeppilotdev/Blocksmiths"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="GitHub repository" /></a>
-      <a href="https://blocksmiths.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" alt="Live demo" /></a>
+      <a href="https://github.com/Pradeeppilotdev/Blocksmiths"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub repository" /></a>
+      <a href="https://blocksmiths.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-FFFFFF?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000" alt="Live demo" /></a>
     </td>
   </tr>
   <tr>
@@ -293,11 +293,11 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
 | Repository | Language | Description |
 | :-- | :-- | :-- |
 | [Alumni-Portal](https://github.com/MohammedAshikM3003/Alumni-Portal) | TypeScript | Alumni networking and management platform connecting students, alumni, and the institution |
-| [IDEAlab](https://github.com/MohammedAshikM3003/IDEAlab) | JavaScript | Repository link |
+| [IDEAlab](https://github.com/MohammedAshikM3003/IDEAlab) | JavaScript | Description coming soon |
 
 ---
 
-## `> cat experience.log` - Experience
+## Experience
 
 **`[2025-05 → 2025-06]`** &nbsp; Software Development Intern - **OneYes Info Tech Solutions Pvt. Ltd.** (Remote)
 
@@ -310,7 +310,7 @@ Built backend functionality for **MeetingMapper**, an AI meeting assistant that 
 
 ---
 
-## `> echo $ACHIEVEMENTS` - Achievements
+## Achievements
 
 | Achievement | Details |
 | :-- | :-- |
@@ -321,7 +321,7 @@ Built backend functionality for **MeetingMapper**, an AI meeting assistant that 
 
 ---
 
-## `> ls /certifications` - Certifications
+## Certifications
 
 | Certification | Issued By |
 | :-- | :-- |
@@ -334,7 +334,7 @@ Built backend functionality for **MeetingMapper**, an AI meeting assistant that 
 
 ---
 
-## `> git log --oneline /education` - Education
+## Education
 
 | Qualification | Institution | Score |
 | :-- | :-- | :-- |
@@ -344,20 +344,20 @@ Built backend functionality for **MeetingMapper**, an AI meeting assistant that 
 
 ---
 
-## `> cat coding-profiles.sh` - Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/profile/mmohammedashik21"><img src="https://img.shields.io/badge/HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=000000&labelColor=000000" alt="HackerRank" /></a>
-<a href="https://leetcode.com/u/MOHAMMED_ASHIK_M/"><img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=000000" alt="LeetCode" /></a>
-<a href="https://www.codechef.com/users/mohammedashikm"><img src="https://img.shields.io/badge/CodeChef-FFFFFF?style=for-the-badge&logo=codechef&logoColor=000000&labelColor=000000" alt="CodeChef" /></a>
-<a href="https://www.codewars.com/users/MOHAMMED%20ASHIK%20M"><img src="https://img.shields.io/badge/Codewars-FFFFFF?style=for-the-badge&logo=codewars&logoColor=000000&labelColor=000000" alt="Codewars" /></a>
+<a href="https://www.hackerrank.com/profile/mmohammedashik21"><img src="https://img.shields.io/badge/HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF&labelColor=000000" alt="HackerRank" /></a>
+<a href="https://leetcode.com/u/MOHAMMED_ASHIK_M/"><img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&labelColor=000000" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/mohammedashikm"><img src="https://img.shields.io/badge/CodeChef-FFFFFF?style=for-the-badge&logo=codechef&logoColor=FFFFFF&labelColor=000000" alt="CodeChef" /></a>
+<a href="https://www.codewars.com/users/MOHAMMED%20ASHIK%20M"><img src="https://img.shields.io/badge/Codewars-FFFFFF?style=for-the-badge&logo=codewars&logoColor=FFFFFF&labelColor=000000" alt="Codewars" /></a>
 
 </div>
 
 ---
 
-## `> git stats --global` - GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -372,17 +372,7 @@ Built backend functionality for **MeetingMapper**, an AI meeting assistant that 
 
 ---
 
-## `> activity-graph --timeline` - Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAshikM3003&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## `> ./snake-animation.sh` - Contribution Snake
+## Contribution Snake
 
 <!-- Snake Game Repo View --> 
 <div align="center"> 
@@ -391,15 +381,15 @@ Built backend functionality for **MeetingMapper**, an AI meeting assistant that 
 
 ---
 
-## `> ping me` - Get in Touch
+## Get in Touch
 
 I am open to software development internships and full-time opportunities. Feel free to reach out.
 
 <div align="center">
 
-<a href="mailto:mmohammedashik2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/mohammedashikm3003"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" alt="LinkedIn" /></a>
-<a href="https://github.com/MohammedAshikM3003"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="GitHub" /></a>
+<a href="mailto:mmohammedashik2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/mohammedashikm3003"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" alt="LinkedIn" /></a>
+<a href="https://github.com/MohammedAshikM3003"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub" /></a>
 
 </div>
 
