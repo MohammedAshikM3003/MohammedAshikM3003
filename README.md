@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammedashikm3003"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mohammedashikm3003"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&labelColor=000000" alt="LinkedIn"/></a>
   <a href="mailto:mmohammedashik2006@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Email"/></a>
   <a href="https://github.com/MohammedAshikM3003"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub"/></a>
 </p>
@@ -135,9 +135,7 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
       <b>Full-stack college placement management platform</b> for students, placement coordinators, and administrators. It centralizes placement workflows, automates eligibility checking, and reduces manual work for placement coordinators.
       <br><br>
       <a href="https://github.com/MohammedAshikM3003/Placement-Portal"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub repository" /></a>
-      <!-- LIVE DEMO: to add a live demo button, paste this line here with your link:
-      <a href="YOUR_LIVE_LINK"><img src="https://img.shields.io/badge/Live-Demo-FFFFFF?style=for-the-badge&labelColor=000000" alt="Live demo" /></a>
-      -->
+      <a href="https://placement--portal.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-FFFFFF?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000" alt="Live demo" /></a>
     </td>
   </tr>
   <tr>
@@ -166,12 +164,9 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
   </tr>
 </table>
 
-<!-- PLACEMENT PORTAL DEMO VIDEO
-     Option 1 (YouTube or any link): replace the href below with your video link.
-     Option 2 (MP4 file): drag and drop the .mp4 into this editor, GitHub inserts a link,
-     paste that link on its own line below, then delete the placeholder paragraph. -->
 <p align="center">
-  <a href="https://github.com/MohammedAshikM3003/Placement-Portal"><img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/demo_placeholder.svg?v=1" width="640" alt="Placement Portal demo video" /></a>
+  <a href="https://github.com/MohammedAshikM3003/MohammedAshikM3003/blob/main/placement_portal.mp4"><img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/placement_portal.gif?v=1" width="640" alt="Placement Portal demo video (click to open the full video)" /></a>
+  <br><sub>Click the preview to open the full video</sub>
 </p>
 
 ### Cynexis
@@ -185,6 +180,9 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
       <b>AI-powered hardware and software system</b> combining a gesture-controlled robotic rover, a robotic arm, wireless communication, and computer vision.
       <br><br>
       <a href="https://github.com/MohammedAshikM3003/Cynexis"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub repository" /></a>
+      <!-- When Cynexis is hosted, replace the badge below with:
+      <a href="YOUR_LIVE_LINK"><img src="https://img.shields.io/badge/Live-Demo-FFFFFF?style=for-the-badge&labelColor=000000" alt="Live demo" /></a> -->
+      <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-555555?style=for-the-badge&labelColor=000000" alt="Live demo coming soon" />
     </td>
   </tr>
   <tr>
@@ -208,12 +206,9 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
   </tr>
 </table>
 
-<!-- CYNEXIS DEMO VIDEO
-     Option 1 (YouTube or any link): replace the href below with your video link.
-     Option 2 (MP4 file): drag and drop the .mp4 into this editor, GitHub inserts a link,
-     paste that link on its own line below, then delete the placeholder paragraph. -->
 <p align="center">
-  <a href="https://github.com/MohammedAshikM3003/Cynexis"><img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/demo_placeholder.svg?v=1" width="640" alt="Cynexis demo video" /></a>
+  <a href="https://github.com/MohammedAshikM3003/MohammedAshikM3003/blob/main/cynexis.mp4"><img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/cynexis.gif?v=1" width="640" alt="Cynexis demo video (click to open the full video)" /></a>
+  <br><sub>Click the preview to open the full video</sub>
 </p>
 
 ### MeetingMapper
@@ -227,6 +222,7 @@ Data Structures and Algorithms | DBMS | OOP | Computer Networks
       <b>AI-powered meeting assistant</b> that converts meeting transcripts into structured summaries and action items. Built during my software development internship at OneYes Info Tech Solutions.
       <br><br>
       <a href="https://github.com/MohammedAshikM3003/MeetingMapper"><img src="https://img.shields.io/badge/GitHub-Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub repository" /></a>
+      <a href="https://meetingmapper.onrender.com"><img src="https://img.shields.io/badge/Live-Demo-FFFFFF?style=for-the-badge&logo=render&logoColor=FFFFFF&labelColor=000000" alt="Live demo" /></a>
     </td>
   </tr>
   <tr>
@@ -383,23 +379,20 @@ Built backend functionality for **MeetingMapper**, an AI meeting assistant that 
 
 ## Get in Touch
 
-I am open to software development internships and full-time opportunities. Feel free to reach out.
+<p align="center">
+  <b>Open to software development internships and full-time roles.</b><br>
+  Have a project or an opportunity in mind? Pick a channel below.
+</p>
 
-<div align="center">
-
-<a href="mailto:mmohammedashik2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/mohammedashikm3003"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" alt="LinkedIn" /></a>
-<a href="https://github.com/MohammedAshikM3003"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub" /></a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedashikm3003"><img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/contact_linkedin.svg?v=1" width="300" alt="LinkedIn" /></a>
+  <a href="mailto:mmohammedashik2006@gmail.com"><img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/contact_email.svg?v=1" width="300" alt="Email" /></a>
+  <a href="https://github.com/MohammedAshikM3003"><img src="https://raw.githubusercontent.com/MohammedAshikM3003/MohammedAshikM3003/main/contact_github.svg?v=1" width="300" alt="GitHub" /></a>
+</p>
 
 ---
 
 <div align="center">
-
-<sub><i>// CSE undergraduate building backend systems, full-stack applications, and AI-powered software</i></sub>
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=000000&fontColor=FFFFFF" alt="footer" />
 
